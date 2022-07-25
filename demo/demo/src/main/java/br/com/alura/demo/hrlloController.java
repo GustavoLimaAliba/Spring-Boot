@@ -11,6 +11,6 @@ public class hrlloController {
 
 
 	public String hello() {
-		return "HEllo word";
+		return "HEllo wordaaa";
 	}
 }
